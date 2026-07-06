@@ -1,0 +1,21 @@
+product_id,product_name,price,category,description
+P0001,Oak Chair,98,Sofa,Synthetic furniture
+P0002,Dining Tab,1428,Table,Synthetic furniture
+P0003,Modern Sof,1125,Table,Synthetic furniture
+P0004,Queen Bed,1470,Bed,Synthetic furniture
+P0005,Storage Ca,1675,Table,Synthetic furniture
+P0006,Office Des,418,Shelf,Synthetic furniture
+P0007,Wall Shelf,1440,Table,Synthetic furniture
+P0008,Patio Set,661,Shelf,Synthetic furniture
+P0009,Coffee Tab,1080,Outdoor,Synthetic furniture
+P0010,TV Stand,477,Shelf,Synthetic furniture
+P0011,Bookshelf,594,Shelf,Synthetic furniture
+P0012,Bar Stool,256,Cabinet,Synthetic furniture
+P0013,Nightstand,725,Desk,Synthetic furniture
+P0014,Wardrobe,1668,Bed,Synthetic furniture
+P0015,Bench,834,Cabinet,Synthetic furniture
+P0016,Drawer,1614,Outdoor,Synthetic furniture
+P0017,Side Table,1112,Shelf,Synthetic furniture
+P0018,Recliner,602,Shelf,Synthetic furniture
+P0019,Console,1608,Shelf,Synthetic furniture
+P0020,Mirror,241,Cabinet,Synthetic furniture
