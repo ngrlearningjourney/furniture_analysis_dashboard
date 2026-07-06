@@ -1,1 +1,88 @@
-# furniture_analysis_dashboard
+# Furniture Sales
+
+### Dataset Explanation
+
+#### Customers
+Contains customer data.
+
+**Columns:**
+- `customer_id`,`customer_name`,`customer_phone_number`
+
+#### Orders
+Contains customer order data.
+
+**Columns:**
+- `order_id`,`customer_id`
+
+#### Products
+Contains product data.
+
+**Columns:**
+- `product_id`, `product_name`, `price`, `category`, `description`
+
+#### Products_Orders
+Contains customer order information and the products they ordered.
+
+**Columns:**
+- `product_id`, `order_id`, `service`, `refund`, `starting_date`, `finishing_date`,  `region`, `rating`
+---
+
+## Metrics
+
+The dashboard analyzes the following metrics:
+
+- Customer Rating
+- Order Count
+- Refund
+- Service
+- Production Time
+
+---
+
+## Insights
+
+### Rating
+  - According to the data, **207 orders** received a **5-star rating**, while **197 orders** received a **1-star rating**.
+  - According to the data, the **North showroom** has **2 of the 4 lowest-rated products** based on average rating.
+  - According to the data, the **Central showroom** has the **lowest average rating** among all showrooms, while the **West showroom** has the **highest average rating**.
+
+### Item Sold
+  - **Barstool** is one of the best-selling items in the **Central and West showrooms**.
+  - **Console** is also one of the best-selling products in the **Central and East showrooms**.
+  - **TV Stand** is one of the best-selling items in the **East and West showrooms**.
+  - Dining Table is one of the best-selling items in the **East and South showrooms**.
+
+### Least Favorite
+  - Storage Cabinet is the least purchased item in the Central showroom,
+  - followed by Coffee Table in the East showroom,
+  - Mirror in the North showroom,
+  - Dining Table in the South showroom,
+  - and lastly Console in the West showroom.
+
+### Number of Order
+  - the South showroom has the highest number of orders in this dataset, while the North showroom has the lowest number of orders.
+  - the East showroom performed the worst in one month (June),
+  - the West showroom in three months (August, November, and December),
+  - the Central showroom in one month (March),
+  - the North showroom in five months (January, February, April, July, and October),
+  - and the South showroom in three months (May, July, and September).
+  - According to the data, the highest number of order is on August, followed by january, and october. The lowest number of order is on July
+
+### Refund:
+  - According to the data, almost every order that taken by all of our showrooms do not require refunds to customers. However, the **Central showroom** has the highest number of refunds compared to the other showrooms.
+
+### Service:
+  - top 3 product that need to be service that come from **Central showroom** are console, patio set, and moderns sofa
+  - top 3 product that need to be service that come from **East showroom** are Storage Cabinet, TV Stand, Bar Stool
+  - top 3 product that need to be service that come from **West showroom** are Queen Bed, Wall Shelf, BookShelf
+  - top 3 product that need to be service that come from **South showroom** are Wardrobe, Office Desk, and Recliner
+  - top 3 product that need to be service that come from **North showroom** are Coffee Table, Oak Chair, Nightstand
+
+### Production Time:
+  - According to the data, the Patio Set takes the longest time to produce on average in the **Central** (15 days), **East** (12 days), and **North (15 days) showrooms**.
+  - Drawer is the second product that takes the longest time to produce on average in the **West** (14 days) and **North (14 days) showrooms**.
+
+## Acknowledgements
+
+- **Data:** Filled by ChatGPT
+- **Tools Used:** Jupyter Notebook, SQLite, Tableau
