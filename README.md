@@ -86,6 +86,23 @@ The Dashboard aims to help the Head of Product at the furniture company examine 
   - According to the data, the Patio Set takes the longest time to produce on average in the **Central** (15 days), **East** (12 days), and **North (15 days) showrooms**.
   - Drawer is the second product that takes the longest time to produce on average in the **West** (14 days) and **North (14 days) showrooms**.
 
+---
+## Recomendations
+
+### Rating:
+- Develop an observation or survey with the product team for low-rated orders. Understand customers' concerns, pain points, and the shortcomings of those orders, then improve product and service quality based on the insights gathered.
+
+### Least Favorite Item:
+- Examine fewer demanding product, ask customer who have bought the product for a feedback about our product and service, and then built improved product tailor to customer need and preferences
+- Conduct deep research to high-demanding product, examine their order, quality, marketing, and customer feedback. If applicable, applied implementable insight from high-demanding product to low-demanding product
+
+### Number of Order:
+- Examine the South Store's orders to understand its marketing campaigns, discounts, and available products. Take the insight to the North Store, and then applied applicable insight in South Store to North Store. And Further, rotate few employee on North Store to the South so they can learn and improved our North Store 
+
+### Refund and Service:
+- Examine all refunded or serviced order to accumulate the shortcoming of our product and service, after that gather Production team and Operational Team to discuss the best solution to improve and manage our product in the future
+
+---
 ## Acknowledgements
 
 - **Data:** Filled by ChatGPT
