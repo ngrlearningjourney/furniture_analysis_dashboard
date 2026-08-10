@@ -40,7 +40,7 @@ This Analysis aims to help the Head of Product and the Head of Sales at the furn
 The Dashboard aims to help the Head of Product at the furniture company examine their company product performance over the past few months. 
 [See the dashboard](https://public.tableau.com/views/furniture_17833173956980/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard](tableu_dashboard.png)
+![Dashboard](furniture_dashboard.png)
 ---
 
 ## Insights
